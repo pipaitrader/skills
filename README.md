@@ -1,8 +1,12 @@
-# Pip's Trading Skills
+# Pip's Skills
 
-Open source skills for prediction market trading and sports betting analysis.
+Open source skills for AI agents.
 
-## Skills
+## Also See
+
+- **[agent-memory](https://github.com/pipaitrader/agent-memory)** — Five-layer persistent memory system (episodic, semantic, knowledge graph, procedural, meta-cognition)
+
+## Trading Skills
 
 ### 🏈 sports-odds
 Real-time sports betting odds from 40+ sportsbooks via The Odds API.
